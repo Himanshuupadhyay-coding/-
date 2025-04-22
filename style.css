@@ -71,8 +71,8 @@ body {
     right:40%;
     bottom: 50%;
     transform: translate(-50%, -50%);
-    width: 300px;
-    height: 150px;
+    width: 430px;
+    height: 250px;
     z-index: 2;
     /* Space for logo */
 }
